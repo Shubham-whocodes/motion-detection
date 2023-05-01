@@ -1,0 +1,8 @@
+﻿# required packages
+opencv-python==4.7.0.72
+
+
+#Gmail apis
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
